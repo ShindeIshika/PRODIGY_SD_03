@@ -19,3 +19,6 @@ Backend: Go (Golang)
 Frontend GUI: PySide6 (Python)
 
 Storage: JSON file
+
+<img width="905" height="647" alt="image" src="https://github.com/user-attachments/assets/333e99da-6d26-48b6-bf16-bb8cae642b39" />
+
